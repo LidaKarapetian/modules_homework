@@ -1,0 +1,5 @@
+Name   Surname   Age   Profession
+Lida   Karapetyan  20   Student
+Jane   Hemingway   18   Singer
+Davit  Lalayan     26   Programmer
+Gevorg Berberyan   22   Lawyer
